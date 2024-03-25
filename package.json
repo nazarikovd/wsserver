@@ -1,0 +1,21 @@
+{
+  "name": "wsserver",
+  "version": "1.0.0",
+  "description": "ws server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyoka",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.1",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.4",
+    "jsonfile": "^6.1.0",
+    "tunnel": "^0.0.6",
+    "ws": "^8.16.0"
+  }
+}
